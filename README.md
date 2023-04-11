@@ -1,4 +1,12 @@
-### Hi there 👋
+### 嗨！我是 SAMW 👋
+
+#### 关于我
+
+- 💼 Java 开发工程师 （@上海共人信息技术有限公司）
+
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=Im-SAMW&show_icons=true&include_all_commits=true&hide_border=true" alt="Anurag's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Im-SAMW&layout=compact&hide_border=true" /> |
+| ------------- | ------------- |
+
 
 <!--
 **Im-SAMW/Im-SAMW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
